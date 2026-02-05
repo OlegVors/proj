@@ -6,6 +6,7 @@ public class MainApplication {
         System.out.println("111111");
         doSomth();
         System.out.println("------");
+        doSomth();
     }
 
     public static void doSomth() {
